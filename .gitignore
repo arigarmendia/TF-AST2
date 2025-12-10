@@ -209,3 +209,6 @@ __marimo__/
 # Others
 
 .DS_Store
+.python-version
+uv.lock
+
