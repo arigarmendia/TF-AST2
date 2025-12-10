@@ -1,11 +1,10 @@
 [project]
 name = "tf-ast2"
 version = "0.1.0"
-description = "Add your description here"
+description = "Requerimientos-del-proyecto"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "ipykernel>=7.1.0",
     "matplotlib>=3.10.7",
     "missingno>=0.5.2",
     "numpy>=2.3.5",
